@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/db.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/itcast/newspaper/app/MainApp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/itcast/newspaper/controller/AdminDialogController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/itcast/newspaper/controller/MainFrameController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/itcast/newspaper/dao/AdminDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/itcast/newspaper/data/DataBase.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/itcast/newspaper/test/AbstractAdminDialogTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/itcast/newspaper/test/AbstractMainFrameTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/itcast/newspaper/tools/GUITools.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/itcast/newspaper/tools/JDBCUtils.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
